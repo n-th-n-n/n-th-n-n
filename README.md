@@ -4,7 +4,8 @@
 
 
 ### 🚀 About Me
-- 🔭 I’m currently working on <b>PodVault</b>. A podcast hosting solution that will be released as a licensed software solution.
+- 🔭 I’ve completed <b>PodVault</b>. A podcast hosting solution that will be released as a licensed software solution. Please contact me directly for licensing.
+- 🏀 I've started an NBA data engineering project, to analysis player advanced stats.
 - 🔭 I'm also going to be releasing an experimental video performance platform in 2025 called [betamax](https://en.wikipedia.org/wiki/Betamax) 🎥.
 - 🖥️ I run on Windows and Linux.
 - 🌱 I’m learning live event sttreaming, WebGL, and IOT.
