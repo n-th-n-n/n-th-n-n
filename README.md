@@ -9,7 +9,7 @@
 - 🔭 I'm also going to be releasing an experimental video performance platform in 2025 called [betamax](https://en.wikipedia.org/wiki/Betamax) 🎥.
 - 🖥️ I run on Windows and Linux.
 - 🌱 I’m learning live event sttreaming, WebGL, and IOT.
-- ⏳ Waiting for [zed](https://zed.dev) on Windows
+- ❤️ Loving [zed](https://zed.dev)
 
 - 📫 How to reach me: [me@nathansachs.io](mailto:me@nathansachs.io)
 
