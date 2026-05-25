@@ -5,9 +5,10 @@
 
 ### 🚀 About Me
 - 🔭 I’ve completed <b>PodVault</b>. A podcast hosting solution that will be released as a licensed software solution. Please contact me directly for licensing.
+- I released [Dead Hungry](https://dead-hungry.nathansachs.io) a mix of my design and cooking. Sorry but you can't edit or have your own yet. 
 - 🏀 I've started an NBA data engineering project, to analysis player advanced stats.
-- 🔭 I'm also going to be releasing an experimental video performance platform in 2025 called [betamax](https://en.wikipedia.org/wiki/Betamax) 🎥.
-- 🖥️ I run on Windows and Linux.
+- 🔭 I'm also going to be releasing an experimental video performance platform called [betamax](https://en.wikipedia.org/wiki/Betamax) 🎥.
+- 🖥️ I run on Mac and Linux.
 - 🌱 I’m learning live event sttreaming, WebGL, and IOT.
 - ❤️ Loving [zed](https://zed.dev)
 
@@ -15,6 +16,7 @@
 
 ---
 
+<!--
 ### 🛠️ Technologies and Tools I Use 🧑‍💻
 ![ReactJS](https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![AngularJS](https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=DD1B16)
@@ -32,7 +34,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![WebGL](https://img.shields.io/badge/WebGL-F6F6F6?style=for-the-badge&logo=webgl&logoColor=black)
-
+-->
 
 ---
 
