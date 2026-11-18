@@ -50,8 +50,7 @@ Hi, I'm Nathan 👋 — I build fast, private, and mostly serverless things.
 **Data**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-FF9900?style=flat-square)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
 <sub>ETL/ELT pipeline design · data warehouse architecture</sub>
 
 **Cloudflare**  
@@ -64,15 +63,18 @@ Hi, I'm Nathan 👋 — I build fast, private, and mostly serverless things.
 ![Tunnel](https://img.shields.io/badge/Tunnel-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Zero Trust](https://img.shields.io/badge/Zero%20Trust-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
-**AWS & Azure**  
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square)
+**AWS**  
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square)
+![Redshift](https://img.shields.io/badge/Redshift-FF9900?style=flat-square)
 ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square)
 ![S3](https://img.shields.io/badge/S3-FF9900?style=flat-square)
 ![RDS](https://img.shields.io/badge/RDS-FF9900?style=flat-square)
 ![IAM](https://img.shields.io/badge/IAM-FF9900?style=flat-square)
-![Azure Functions](https://img.shields.io/badge/Azure%20Functions-0078D4?style=flat-square)
-![Azure Queue Storage](https://img.shields.io/badge/Azure%20Queue%20Storage-0078D4?style=flat-square)
-![Azure Service Bus](https://img.shields.io/badge/Azure%20Service%20Bus-0078D4?style=flat-square)
+
+**Azure**  
+![Functions](https://img.shields.io/badge/Functions-0078D4?style=flat-square)
+![Queue Storage](https://img.shields.io/badge/Queue%20Storage-0078D4?style=flat-square)
+![Service Bus](https://img.shields.io/badge/Service%20Bus-0078D4?style=flat-square)
 
 **Testing, CI & monitoring**  
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
