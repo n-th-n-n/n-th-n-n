@@ -6,10 +6,11 @@ Hi, I'm Nathan 👋 — I build fast, private, and mostly serverless things.
 
 ## What I'm building
 
-- 🍳 **deadhungry** — A fusion of my recipes and design. No open accounts yet.
-- 🎞️ **slowsta** — A private instagram alternative.
 - 🎥 **betamax** — an experiment in performing live video across multiple screens.
 - 📺 **deadair** — A self-hosted media server for my own films and shows, with adaptive streaming and live TV.
+- 🍳 **deadhungry** — A fusion of my recipes and design. No open accounts yet.
+- 🎞️ **slowsta** — A private instagram alternative.
+
 
 ## Stack
 
